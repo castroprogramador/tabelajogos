@@ -6,12 +6,12 @@ st.set_page_config(page_title="Copa Renegados - Vôlei", layout="centered")
 
 # --- CONFIGURAÇÃO DAS CHAVES ---
 CONFIG_TIMES = {
-    "Moving": {"chave": "A", "escudo": "Logos/moving.png"},
-    "Ultravolei A": {"chave": "A", "escudo": "Logos/ultraa.png"},
-    "Winx Pride": {"chave": "A", "escudo": "Logos/winx.png"},
-    "Ultravolei B": {"chave": "B", "escudo": "Logos/ultrab.png"},
-    "MSC Voleibol": {"chave": "B", "escudo": "Logos/msc.png"},
-    "Vetera": {"chave": "B", "escudo": "Logos/vetera.png"},
+    "Delta": {"chave": "A", "escudo": "Logos/delta.jpg"},
+    "Corujas": {"chave": "A", "escudo": "Logos/corujas.jpg"},
+    "G6": {"chave": "A", "escudo": "Logos/g6.jpg"},
+    "Univolei": {"chave": "B", "escudo": "Logos/univolei.jpg"},
+    "GRV": {"chave": "B", "escudo": "Logos/grv.jpg"},
+    "Ravens": {"chave": "B", "escudo": "Logos/ravens.jpg"},
 }
 
 # --- 2. CONEXÃO COM GOOGLE SHEETS ---
